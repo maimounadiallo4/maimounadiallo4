@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="mailto:mounish699@gmail.com"><img src="https://img.shields.io/badge/Email-Diallo_Maimouna-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/maimounadiallo4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connecter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/maïmounadiallo4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connecter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/maimounadiallo4"><img src="https://img.shields.io/badge/GitHub-MaimounaDiallo4-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
