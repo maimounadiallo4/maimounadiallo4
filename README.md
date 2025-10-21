@@ -54,5 +54,5 @@
 
 <p align="center">
   💌 <strong>Email :</strong> <a href="mailto:mounish699@gmail.com">mounish699@gmail.com</a> <br/>
-  🔗 <strong>LinkedIn :</strong> <a href="https://linkedin.com/in/maimounadiallo4" target="_blank">linkedin.com/in/maimounadiallo4</a>
+  🔗 <strong>LinkedIn :</strong> <a href="https://linkedin.com/in/maimounadiallo4" target="_blank">linkedin.com/in/maïmounadiallo4</a>
 </p>
