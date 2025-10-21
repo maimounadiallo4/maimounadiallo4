@@ -1,7 +1,6 @@
 <h1 align="center">👩🏾‍💻 Maïmouna Diallo</h1>
 <p align="center">
-  Étudiante à l'École Supérieure Polytechnique de Dakar <br/>
-  Développeuse web & mobile 💻 | Créative & ambitieuse ✨
+  Élève ingénieure à l'École Supérieure Polytechnique de Dakar <br/>
 </p>
 
 <p align="center">
