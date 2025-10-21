@@ -15,9 +15,9 @@
 ## ✨ À propos de moi
 
 - 🚀 Je crée des bugs depuis **2023** (mais je les corrige aussi hein 😅)
-- 🛠️ En ce moment : **React + TypeScript + Vite**
-- 💡 Objectif : Développement frontend de l’app **EdConnekt**
-- 🧠 J’adore : créer des interfaces utiles, esthétiques & accessibles
+- 🛠️ En ce moment : **React + Express**
+- 💡 Objectif : Créer une mini app full stack de A à Z
+- 🧠 J’adore : créer des applications utiles, esthétiques & accessibles
 - 🎯 En route pour devenir **Full Stack Dev**
 
 ---
