@@ -17,7 +17,7 @@
 - 🛠️ En ce moment : **React + Express**
 - 💡 Objectif : Créer une mini app full stack de A à Z
 - 🧠 J’adore : créer des applications utiles, esthétiques & accessibles
-- 🎯 En route pour devenir **Full Stack Dev**
+- 🎯 En route pour devenir **Software Engineer**
 
 ---
 
