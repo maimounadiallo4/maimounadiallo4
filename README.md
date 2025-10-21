@@ -1,6 +1,3 @@
-<!-- BANNIÈRE HAUTE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=Bienvenue%20dans%20mon%20univers%20✨&fontSize=28&fontAlignY=35&fontColor=ffffff" width="100%"/>
-
 <h1 align="center">👩🏾‍💻 Maïmouna Diallo</h1>
 <p align="center">
   Étudiante à l'École Supérieure Polytechnique de Dakar <br/>
@@ -68,11 +65,3 @@
   💌 <strong>Email :</strong> <a href="mailto:mounish699@gmail.com">mounish699@gmail.com</a> <br/>
   🔗 <strong>LinkedIn :</strong> <a href="https://linkedin.com/in/maimounadiallo4" target="_blank">linkedin.com/in/maimounadiallo4</a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=100&section=footer"/>
-</p>
-
-<p align="center"><b>Merci d’être passé·e 💜 N’oublie pas de laisser une ⭐ si tu as aimé !</b></p>
