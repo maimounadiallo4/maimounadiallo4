@@ -51,14 +51,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maimounadiallo4&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
-</div>
-
----
-
 ## 📫 Me contacter
 
 <p align="center">
