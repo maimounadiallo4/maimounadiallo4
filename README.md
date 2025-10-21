@@ -45,9 +45,9 @@
 
 ## 🚀 Projets récents
 
+- 🎓 **EdConnekt** — Plateforme éducative pour enseignants & élèves *(React + FastAPI)*
 - 📱 **SimpleBlog** — Application Android pour publier des articles *(Java + SQLite)*
-- 🎓 **EdConnekt** — Plateforme éducative pour enseignants & élèves *(React + Firebase)*
-- 🌐 **Portfolio** — Mon site web personnel *(en cours)*
+- 🌐 **Daral bi** — Site web d'achat et de vente de bétail *HTML CSS JS PHP MySQL*
 
 ---
 
