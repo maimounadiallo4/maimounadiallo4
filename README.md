@@ -1,4 +1,5 @@
 <h1 align="center">👩🏾‍💻 Maïmouna Diallo</h1>
+
 <p align="center">
   Engineering student at École Supérieure Polytechnique de Dakar <br/>
 </p>
@@ -38,6 +39,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
+  <!-- Added Node.js and Express logos -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
 </p>
 
 ---
@@ -54,5 +58,5 @@
 
 <p align="center">
   💌 <strong>Email:</strong> <a href="mailto:mounish699@gmail.com">mounish699@gmail.com</a> <br/>
-  🔗 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/maimounadiallo4" target="_blank">linkedin.com/in/maïmounadiallo4</a>
+  🔗 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/maimounadiallo4" target="_blank">linkedin.com/in/maïmouna-diallo4</a>
 </p>
