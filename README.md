@@ -14,7 +14,7 @@
 ## ✨ About Me
 
 - 🚀 Breaking things since **2023** (but fixing them too 😅)
-- 🛠️ Currently working with: **React + Express**
+- 🛠️ Currently working with: **ReactJS + ExpressJS**
 - 💡 Goal: Build a full-stack mini app from scratch
 - 🧠 Passionate about: creating useful, beautiful & accessible applications
 - 🎯 On my way to becoming a **Software Engineer**
