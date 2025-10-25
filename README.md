@@ -53,6 +53,8 @@
 - 🌐 **Daral bi** — Website for buying and selling livestock *(HTML CSS JS PHP MySQL)*
 
 ---
+![Maimouna's GitHub stats](https://github-readme-stats.vercel.app/api?username=maimounadiallo4&commits_year=2025)
+---
 
 ## 📫 Contact Me
 
