@@ -15,7 +15,7 @@
 ## ✨ About Me
 
 - 🚀 Breaking things since **2023** (but fixing them too 😅)
-- 🛠️ Currently working with: **ReactJS + ExpressJS**
+- 🛠️ Currently working with: **ReactJS + ExpressJS + MongoDB**
 - 💡 Goal: Build a full-stack mini app from scratch
 - 🧠 Passionate about: creating useful, beautiful & accessible applications
 - 🎯 On my way to becoming a **Software Engineer**
@@ -33,13 +33,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" /> <!-- ✅ MongoDB ajouté -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-  <!-- Added Node.js and Express logos -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
 </p>
@@ -51,7 +51,7 @@
 - 🎓 **EdConnekt** — Educational platform for teachers & students *(React + FastAPI)*
 - 📱 **SimpleBlog** — Android app to publish articles *(Java + SQLite)*
 - 🌐 **Daral bi** — Website for buying and selling livestock *(HTML CSS JS PHP MySQL)*
-  
+
 ---
 
 ## 📫 Contact Me
