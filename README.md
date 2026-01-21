@@ -1,3 +1,3 @@
 - 🎓 Software Engineering Student | ESP Dakar
 - 💡 Building accessible & user-centric applications
-- 🌱 Always learning, always shipping
+- 🌱 Always learning, always shipping...
