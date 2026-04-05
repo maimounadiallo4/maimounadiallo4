@@ -41,12 +41,3 @@ Engineering student at École Supérieure Polytechnique de Dakar <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
 </p>
-
----
-
-## 📫 Contact Me
-
-<p align="center">
-💌 <strong>Email:</strong> <a [href="mailto:mounish699@gmail.com](mailto:href=%22mailto:mounish699@gmail.com)">[mounish699@gmail.com](mailto:mounish699@gmail.com)</a> <br/>
-🔗 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/maimounadiallo4" target="_blank">[linkedin.com/in/maïmouna-diallo4](http://linkedin.com/in/ma%C3%AFmouna-diallo4)</a>
-</p>
