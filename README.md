@@ -25,7 +25,9 @@
 
 <div align="center">
   <h2>💻 Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,fastapi,py,java,php,mysql,mongodb,postgres,docker,git,figma" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,py,java,php,mysql,mongodb,postgres,docker,git,figma" />
 </div>
 
 
