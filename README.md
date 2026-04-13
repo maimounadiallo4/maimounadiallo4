@@ -1,43 +1,66 @@
-<h1 align="center">👩🏾‍💻 Maïmouna Diallo</h1>
-
-<p align="center">
-Engineering student at École Supérieure Polytechnique de Dakar <br/>
-</p>
-
-<p align="center">
-<a [href="mailto:mounish699@gmail.com](mailto:href=%22mailto:mounish699@gmail.com)"><img src="https://img.shields.io/badge/Email-Diallo_Maimouna-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="[https://www.linkedin.com/in/maïmouna-diallo4/](https://www.linkedin.com/in/ma%C3%AFmouna-diallo4/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/maimounadiallo4"><img src="https://img.shields.io/badge/GitHub-MaimounaDiallo4-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<div align="center">
+  <h1>👩🏾‍💻 Maïmouna Diallo</h1>
+  <h3>Software Engineering Student at École Supérieure Polytechnique (ESP) Dakar</h3>
+  
+ [![Email](https://img.shields.io/badge/Email-mounish699%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mounish699@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maïmouna-diallo4/)
+ [![GitHub followers](https://img.shields.io/github/followers/maimounadiallo4?logo=github&style=flat-square&color=181717&labelColor=1c1917)](https://github.com/maimounadiallo4)
+  ![Profile Views](https://komarev.com/ghpvc/?username=maimounadiallo4&style=flat-square&color=0891b2)
+</div>
 
 ---
 
-## ✨ About Me
+<div align="center">
+  <h2>✨ About Me</h2>
+  <p>
+    💡 Passionate about building accessible and user-centric applications.<br/>
+    🚀 Currently in my first year of the engineering cycle (DIC1), exploring software architecture and DevOps.<br/>
+    🌱 Always learning, always shipping...
+  </p>
+</div>
 
-- 🎓 Software Engineering Student | ESP Dakar
-- 💡 Building accessible & user-centric applications
-- 🌱 Always learning, always shipping...
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maimounadiallo4/maimounadiallo4/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maimounadiallo4/maimounadiallo4/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maimounadiallo4/maimounadiallo4/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
----
+<div align="center">
+  <h2>💻 Tech Stack</h2>
+  
+  #### Frontend & Design
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,figma,vite" alt="Frontend & Design" />
+  
+  #### Backend & Languages
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,py,fastapi" alt="Backend & Languages" />
+  
+  #### Databases & Tools
+  <p>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,docker,git,github,ubuntu" alt="Databases & Tools" />
+  </p>
+</div>
 
-## 🧰 Technologies & Tools
+<div align="center">
+  <h2>🌍 Languages</h2>
+  
+  ![French](https://img.shields.io/badge/French-Fluent-blue?style=for-the-badge)
+  ![English](https://img.shields.io/badge/English-Intermediate-green?style=for-the-badge)
+  ![Wolof](https://img.shields.io/badge/Wolof-Native-orange?style=for-the-badge)
+</div>
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" /> <!-- ✅ MongoDB ajouté -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-</p>
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=maimounadiallo4&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maimounadiallo4&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maimounadiallo4&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+</div>
+
+
+<div align="center">
+  <p>🤝 Open to collaborations and internship opportunities!</p>
+  <img src="https://raw.githubusercontent.com/Deiucanta/Deiucanta/master/assets/wave.gif" width="100px">
+</div>
