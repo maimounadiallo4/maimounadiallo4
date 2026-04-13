@@ -1,17 +1,16 @@
 name: generate animation
 
 on:
-  # Lancer automatiquement toutes les 24 heures
   schedule:
-    - cron: '0 0 * * *'
-  
-  # Permet de lancer manuellement depuis l'onglet Actions
+    - cron: "0 0 * * *" 
   workflow_dispatch:
-  
-  # Lancer à chaque push sur la branche main
   push:
     branches:
     - main
+
+# This block fixes the 'exit code 128' error
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -19,8 +18,8 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # génère le serpent à partir des contributions de l'utilisateur
       - name: generate github-contribution-grid-snake.svg
+        # Updated to v3 to support newer Node versions
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -28,9 +27,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-      # pousse le contenu de <build_dir> vers une branche appelée 'output'
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        # Updated version to handle the 2026 Node.js 24 requirements
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
