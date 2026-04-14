@@ -24,10 +24,13 @@
 
 
 <div align="center">
-  <h2>💻 Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,githubactions,linux,c,obsidian,jest,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,figma" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,py,java,php,mysql,mongodb,postgres,postman,docker,git,redis,figma,markdown,latex,nginx" />
+  <img src="https://skillicons.dev/icons?i=c,py,java,php,nodejs,express,fastapi,jest" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,vercel,nginx,postman" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,githubactions,markdown,latex,obsidian" />
 </div>
 
 
