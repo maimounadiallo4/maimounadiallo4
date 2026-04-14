@@ -22,8 +22,10 @@
 
 </div>
 
+<br/>
 
 <div align="center">
+  <h2>💻 Tech Stack<h2/>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,figma" />
   <br/>
   <img src="https://skillicons.dev/icons?i=c,py,java,php,nodejs,express,fastapi,jest" />
