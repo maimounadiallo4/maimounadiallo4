@@ -1,35 +1,32 @@
-name: generate animation
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # tous les jours à minuit UTC
+  workflow_dispatch:        # déclenchement manuel depuis l'onglet Actions
   push:
     branches:
-    - main
-
-# This block fixes the 'exit code 128' error
-permissions:
-  contents: write
+      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
+    timeout-minutes: 10
+
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        # Updated to v3 to support newer Node versions
-        uses: Platane/snk/svg-only@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: maimounadiallo4
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      - name: push github-contribution-grid-snake.svg to the output branch
-        # Updated version to handle the 2026 Node.js 24 requirements
-        uses: crazy-max/ghaction-github-pages@v4
+            dist/github-contribution-grid-snake.svg?color_snake=7aa2f7&color_dots=0,1a1b2e,2ac3de,7aa2f7,bb9af7&color_empty=1a1b2e
+            dist/github-contribution-grid-snake-dark.svg?color_snake=bb9af7&color_dots=0,1a1b2e,2ac3de,7aa2f7,bb9af7&color_empty=0d1117
+
+      - name: Push output to branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
