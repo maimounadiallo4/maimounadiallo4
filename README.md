@@ -21,10 +21,10 @@
 </picture>
 
 </div>
-
+<br/><br/><br/>
 
 <div align="center">
-  <h2>💻 Tech Stack</h2>
+  <img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express" />
   <br/>
   <img src="https://skillicons.dev/icons?i=fastapi,py,java,php,mysql,mongodb,postgres,docker,git,figma" />
@@ -37,11 +37,4 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=maimounadiallo4&theme=tokyonight&hide_border=true" height="160px"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <p>🤝 <i>Open to collaborations and internship opportunities!</i></p>
-  <img src="https://raw.githubusercontent.com/Deiucanta/Deiucanta/master/assets/wave.gif" width="50px">
 </div>
