@@ -32,7 +32,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,vercel,nginx,postman,jquery,grafana,prometheus" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,githubactions,markdown,latex,obsidian" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,githubactions,scikitlearn,markdown,latex,obsidian" />
 </div>
 
 
