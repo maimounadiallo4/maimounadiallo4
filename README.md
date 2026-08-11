@@ -28,9 +28,9 @@
   <h2>💻 Tech Stack</h2>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,figma" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=c,py,java,php,nodejs,express,fastapi,jest,vitest,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=c,py,java,php,nodejs,express,fastapi,jest,vitest,bootstrap,nestjs" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,vercel,nginx,postman,jquery,grafana,prometheus" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,prisma,vercel,nginx,postman,jquery,grafana,prometheus" />
   <br/>
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,githubactions,scikitlearn,markdown,latex,obsidian" />
 </div>
