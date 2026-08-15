@@ -1,10 +1,3 @@
-<!--
-  README de profil personnalisé pour maimounadiallo4.
-  Déposer ce fichier dans le dépôt maimounadiallo4/maimounadiallo4, branche main.
-  L’instance de statistiques est auto-hébergée sur maimouna-github-readme-stats.vercel.app.
--->
-
-<!-- ===== THEME-AWARE HERO BANNER ===== -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maimounadiallo4/maimounadiallo4/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maimounadiallo4/maimounadiallo4/main/light.svg">
@@ -51,15 +44,6 @@
     <img width="100%" src="https://raw.githubusercontent.com/maimounadiallo4/maimounadiallo4/main/projects/projects-light.svg" alt="Projets sélectionnés de Maïmouna Diallo" />
   </picture>
 </div>
-
-<h3 align="center">Explorer les projets</h3>
-
-| Projet | Angle mis en avant | Technologie visible |
-|---|---|---|
-| [Xeetali](https://github.com/maimounadiallo4/Xeetali) | Système de gestion critique des stocks de sang | TypeScript |
-| [transpobot](https://github.com/maimounadiallo4/transpobot) | Gestion du transport urbain avec assistant conversationnel connecté à MySQL | TypeScript |
-| [Password-Cracker](https://github.com/ix-e/Password-Cracker) | Outil pédagogique d’audit de sécurité et principes SOLID | Java |
-| [alphaRedis](https://github.com/abib17Drame/alphaRedis) | Projet système orienté stockage et performance | C |
 
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
