@@ -1,52 +1,87 @@
-<div align="center">
-  <h1>👩🏾‍💻 Maïmouna Diallo</h1>
-  <p><b>Software Engineering Student @ ESP Dakar</b></p>
-  
-<div align="center">
+<!--
+  README de profil personnalisé pour maimounadiallo4.
+  Déposer ce fichier dans le dépôt maimounadiallo4/maimounadiallo4, branche main.
+  L’instance de statistiques est auto-hébergée sur maimouna-github-readme-stats.vercel.app.
+-->
 
-[![Email](https://img.shields.io/badge/Email-mounish699%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mounish699@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maïmouna%20Diallo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maïmouna-diallo4/)
-[![GitHub](https://img.shields.io/github/followers/maimounadiallo4?logo=github&style=flat-square&color=181717&labelColor=1c1917)](https://github.com/maimounadiallo4)
-![Profile Views](https://komarev.com/ghpvc/?username=maimounadiallo4&style=flat-square&color=7F77DD)
-
-</div>
-
-
-<div align="center">
-
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maimounadiallo4/maimounadiallo4/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maimounadiallo4/maimounadiallo4/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/maimounadiallo4/maimounadiallo4/output/github-contribution-grid-snake.svg" width="80%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maimounadiallo4/maimounadiallo4/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maimounadiallo4/maimounadiallo4/main/light.svg">
+  <img alt="Maïmouna Diallo — Software Engineering Student" src="https://raw.githubusercontent.com/maimounadiallo4/maimounadiallo4/main/light.svg">
 </picture>
 
+<!-- ===== GITHUB STATS ===== -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=maimounadiallo4&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
+    <img width="100%" src="https://streak-stats.demolab.com/?user=maimounadiallo4&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="GitHub contribution streak de Maïmouna" />
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://maimouna-github-readme-stats.vercel.app/api?username=maimounadiallo4&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+    <img width="49%" src="https://maimouna-github-readme-stats.vercel.app/api?username=maimounadiallo4&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Statistiques GitHub de Maïmouna" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://maimouna-github-readme-stats.vercel.app/api/top-langs/?username=maimounadiallo4&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+    <img width="49%" src="https://maimouna-github-readme-stats.vercel.app/api/top-langs/?username=maimounadiallo4&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Langages les plus utilisés par Maïmouna" />
+  </picture>
+</div>
+
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maimounadiallo4/maimounadiallo4/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maimounadiallo4/maimounadiallo4/output/snake-light.svg" />
+    <img alt="Snake parcourant les contributions GitHub de Maïmouna" src="https://raw.githubusercontent.com/maimounadiallo4/maimounadiallo4/output/snake-light.svg" />
+  </picture>
+</div>
+
+<!-- ===== TECH STACK ===== -->
+<h2 align="center">Technologies</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,java,c,php,react,vite,nodejs,express,mysql,postgres,docker,githubactions" alt="TypeScript, Java, C, PHP, React, Vite, Node.js, Express, MySQL, PostgreSQL, Docker et GitHub Actions" />
+</p>
+
+<!-- ===== SELECTED PROJECTS ===== -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maimounadiallo4/maimounadiallo4/main/projects/projects-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maimounadiallo4/maimounadiallo4/main/projects/projects-light.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/maimounadiallo4/maimounadiallo4/main/projects/projects-light.svg" alt="Projets sélectionnés de Maïmouna Diallo" />
+  </picture>
+</div>
+
+<h3 align="center">Explorer les projets</h3>
+
+| Projet | Angle mis en avant | Technologie visible |
+|---|---|---|
+| [Xeetali](https://github.com/maimounadiallo4/Xeetali) | Système de gestion critique des stocks de sang | TypeScript |
+| [transpobot](https://github.com/maimounadiallo4/transpobot) | Gestion du transport urbain avec assistant conversationnel connecté à MySQL | TypeScript |
+| [Password-Cracker](https://github.com/ix-e/Password-Cracker) | Outil pédagogique d’audit de sécurité et principes SOLID | Java |
+| [alphaRedis](https://github.com/abib17Drame/alphaRedis) | Projet système orienté stockage et performance | C |
+
+<!-- ===== SOCIAL BADGES ===== -->
+<br/>
+<div align="center">
+  <a href="https://portfolio-mouna.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ma%C3%AFmouna-diallo4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/mouna.dlo/">
+    <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mounish699@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+  </a>
 </div>
 
 <br/>
-
-<div align="center">
-  <h2>💻 Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,figma" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=c,py,java,php,nodejs,express,fastapi,jest,vitest,bootstrap,nestjs" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,prisma,vercel,nginx,postman,jquery,grafana,prometheus" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,githubactions,scikitlearn,markdown,latex,obsidian" />
-</div>
-
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=maimounadiallo4&theme=tokyonight&hide_border=true" height="160px"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <p>🤝 <i>Open to collaborations and internship opportunities!</i></p>
-  <img src="https://raw.githubusercontent.com/Deiucanta/Deiucanta/master/assets/wave.gif" width="50px">
-</div>
+<p align="center">
+  Open to <b>collaborations</b> and <b>internship opportunities</b>.
+</p>
