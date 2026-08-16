@@ -31,7 +31,7 @@
 </div>
 
 <!-- ===== TECH STACK ===== -->
-<h2 align="center">Technologies</h2>
+<h2 align="center">TECH STACK</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,jquery" />
   <br/>
@@ -41,6 +41,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=grafana,prometheus,git,github,postman,notion" />
 </div>
+<br/>
 
 <!-- ===== SELECTED PROJECTS ===== -->
 <div align="center">
