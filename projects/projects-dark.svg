@@ -1,28 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 340" role="img" aria-label="Selected projects by Maïmouna Diallo">
-  <rect width="1160" height="340" rx="22" fill="#0A101F"/>
-  <rect x="1" y="1" width="1158" height="338" rx="21" fill="none" stroke="#22D3EE" stroke-opacity=".55" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 480" role="img" aria-label="Selected projects by Maïmouna Diallo">
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  </defs>
+  <rect width="1160" height="480" rx="22" fill="#0A101F"/>
+  <rect x="1" y="1" width="1158" height="478" rx="21" fill="none" stroke="url(#frame)" stroke-width="2"/>
   <text x="24" y="34" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="11" font-weight="700" fill="#22D3EE" letter-spacing="2">SELECTED.WORK</text>
-  <text x="24" y="59" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#F8FAFC">A few projects that show how I think and build.</text>
-  <rect x="20" y="78" width="550" height="102" rx="15" fill="#111C31" stroke="#22D3EE" stroke-opacity=".26"/>
-  <text x="44" y="109" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="11" font-weight="700" fill="#22D3EE" letter-spacing="2">01 / SELECTED</text>
-  <text x="44" y="139" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="18" font-weight="700" fill="#F8FAFC">XEETALI</text>
-  <text x="44" y="163" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#94A3B8">Critical blood-stock management system</text>
-  <rect x="474" y="98" width="74" height="26" rx="13" fill="#22D3EE" fill-opacity=".12"/>
-  <text x="511" y="116" text-anchor="middle" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="10" font-weight="700" fill="#22D3EE">TypeScript</text><rect x="590" y="78" width="550" height="102" rx="15" fill="#111C31" stroke="#22D3EE" stroke-opacity=".26"/>
-  <text x="614" y="109" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="11" font-weight="700" fill="#22D3EE" letter-spacing="2">02 / SELECTED</text>
-  <text x="614" y="139" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="18" font-weight="700" fill="#F8FAFC">TRANSPOBOT</text>
-  <text x="614" y="163" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#94A3B8">Urban transport + LLM assistant + MySQL</text>
-  <rect x="1044" y="98" width="74" height="26" rx="13" fill="#22D3EE" fill-opacity=".12"/>
-  <text x="1081" y="116" text-anchor="middle" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="10" font-weight="700" fill="#22D3EE">TypeScript</text><rect x="20" y="201" width="550" height="102" rx="15" fill="#111C31" stroke="#22D3EE" stroke-opacity=".26"/>
-  <text x="44" y="232" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="11" font-weight="700" fill="#22D3EE" letter-spacing="2">03 / SELECTED</text>
-  <text x="44" y="262" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="18" font-weight="700" fill="#F8FAFC">PASSWORD-CRACKER</text>
-  <text x="44" y="286" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#94A3B8">Pedagogical security audit &amp; SOLID</text>
-  <rect x="474" y="221" width="74" height="26" rx="13" fill="#22D3EE" fill-opacity=".12"/>
-  <text x="511" y="239" text-anchor="middle" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="10" font-weight="700" fill="#22D3EE">Java</text><rect x="590" y="201" width="550" height="102" rx="15" fill="#111C31" stroke="#22D3EE" stroke-opacity=".26"/>
-  <text x="614" y="232" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="11" font-weight="700" fill="#22D3EE" letter-spacing="2">04 / SELECTED</text>
-  <text x="614" y="262" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="18" font-weight="700" fill="#F8FAFC">ALPHAREDIS</text>
-  <text x="614" y="286" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#94A3B8">Systems project for storage &amp; performance</text>
-  <rect x="1044" y="221" width="74" height="26" rx="13" fill="#22D3EE" fill-opacity=".12"/>
-  <text x="1081" y="239" text-anchor="middle" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="10" font-weight="700" fill="#22D3EE">C</text>
-  <text x="1132" y="316" text-anchor="end" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="10" font-weight="700" fill="#94A3B8" letter-spacing="1.4">MAIMOUNA / PROJECT INDEX</text>
+  <text x="24" y="59" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#F8FAFC">Four projects, four different problems solved.</text>
+
+  <rect x="20" y="78" width="550" height="172" rx="16" fill="#111C31" stroke="#22D3EE" stroke-opacity=".30"/>
+  <text x="546" y="144" text-anchor="end" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="64" font-weight="700" fill="#22D3EE" opacity=".07">01</text>
+  <text x="44" y="106" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="11" font-weight="700" fill="#22D3EE" letter-spacing="2">01 / SCALE</text>
+  <text x="44" y="134" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="21" font-weight="700" fill="#F8FAFC">SHOPISN</text>
+  <text x="44" y="156" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#94A3B8">Open-source multi-tenant e-commerce platform</text>
+  <text x="44" y="178" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="12" font-weight="700" fill="#34D399">500+ shops load-tested · 0 cross-tenant leaks</text>
+<rect x="44.0" y="210" width="70.2" height="24" rx="12" fill="#22D3EE" fill-opacity=".10" stroke="#22D3EE" stroke-opacity=".45"/><text x="79.1" y="226" text-anchor="middle" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="10" font-weight="700" fill="#22D3EE">FastAPI</text><rect x="122.2" y="210" width="116.4" height="24" rx="12" fill="#22D3EE" fill-opacity=".10" stroke="#22D3EE" stroke-opacity=".45"/><text x="180.4" y="226" text-anchor="middle" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="10" font-weight="700" fill="#22D3EE">PostgreSQL RLS</text><rect x="246.6" y="210" width="63.6" height="24" rx="12" fill="#22D3EE" fill-opacity=".10" stroke="#22D3EE" stroke-opacity=".45"/><text x="278.4" y="226" text-anchor="middle" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="10" font-weight="700" fill="#22D3EE">Docker</text>
+  <rect x="590" y="78" width="550" height="172" rx="16" fill="#111C31" stroke="#22D3EE" stroke-opacity=".30"/>
+  <text x="1116" y="144" text-anchor="end" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="64" font-weight="700" fill="#22D3EE" opacity=".07">02</text>
+  <text x="614" y="106" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="11" font-weight="700" fill="#22D3EE" letter-spacing="2">02 / IMPACT</text>
+  <text x="614" y="134" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="21" font-weight="700" fill="#F8FAFC">XEETALI</text>
+  <text x="614" y="156" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#94A3B8">Blood-stock management system for CNTS</text>
+  <text x="614" y="178" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="12" font-weight="700" fill="#34D399">-50% shortage detection · 85% test coverage</text>
+<rect x="614.0" y="210" width="70.2" height="24" rx="12" fill="#22D3EE" fill-opacity=".10" stroke="#22D3EE" stroke-opacity=".45"/><text x="649.1" y="226" text-anchor="middle" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="10" font-weight="700" fill="#22D3EE">FastAPI</text><rect x="692.2" y="210" width="90.0" height="24" rx="12" fill="#22D3EE" fill-opacity=".10" stroke="#22D3EE" stroke-opacity=".45"/><text x="737.2" y="226" text-anchor="middle" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="10" font-weight="700" fill="#22D3EE">Prometheus</text><rect x="790.2" y="210" width="70.2" height="24" rx="12" fill="#22D3EE" fill-opacity=".10" stroke="#22D3EE" stroke-opacity=".45"/><text x="825.3" y="226" text-anchor="middle" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="10" font-weight="700" fill="#22D3EE">Grafana</text>
+  <rect x="20" y="266" width="550" height="172" rx="16" fill="#111C31" stroke="#22D3EE" stroke-opacity=".30"/>
+  <text x="546" y="332" text-anchor="end" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="64" font-weight="700" fill="#22D3EE" opacity=".07">03</text>
+  <text x="44" y="294" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="11" font-weight="700" fill="#22D3EE" letter-spacing="2">03 / DIFFERENTIATOR</text>
+  <text x="44" y="322" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="21" font-weight="700" fill="#F8FAFC">DOCMCP</text>
+  <text x="44" y="344" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#94A3B8">Versioned MCP server for repo &amp; doc analysis</text>
+  <text x="44" y="366" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="12" font-weight="700" fill="#34D399">V1 → V5 roadmap · full LaTeX specification</text>
+<rect x="44.0" y="398" width="63.6" height="24" rx="12" fill="#22D3EE" fill-opacity=".10" stroke="#22D3EE" stroke-opacity=".45"/><text x="75.8" y="414" text-anchor="middle" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="10" font-weight="700" fill="#22D3EE">Python</text><rect x="115.6" y="398" width="43.8" height="24" rx="12" fill="#22D3EE" fill-opacity=".10" stroke="#22D3EE" stroke-opacity=".45"/><text x="137.5" y="414" text-anchor="middle" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="10" font-weight="700" fill="#22D3EE">MCP</text><rect x="167.4" y="398" width="57.0" height="24" rx="12" fill="#22D3EE" fill-opacity=".10" stroke="#22D3EE" stroke-opacity=".45"/><text x="195.9" y="414" text-anchor="middle" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="10" font-weight="700" fill="#22D3EE">LaTeX</text>
+  <rect x="590" y="266" width="550" height="172" rx="16" fill="#111C31" stroke="#22D3EE" stroke-opacity=".30"/>
+  <text x="1116" y="332" text-anchor="end" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="64" font-weight="700" fill="#22D3EE" opacity=".07">04</text>
+  <text x="614" y="294" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="11" font-weight="700" fill="#22D3EE" letter-spacing="2">04 / AI ASSISTANT</text>
+  <text x="614" y="322" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="21" font-weight="700" fill="#F8FAFC">TRANSPOBOT</text>
+  <text x="614" y="344" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#94A3B8">Text-to-SQL assistant for urban transport</text>
+  <text x="614" y="366" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="12" font-weight="700" fill="#34D399">98% accuracy · 200+ NL queries handled</text>
+<rect x="614.0" y="398" width="70.2" height="24" rx="12" fill="#22D3EE" fill-opacity=".10" stroke="#22D3EE" stroke-opacity=".45"/><text x="649.1" y="414" text-anchor="middle" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="10" font-weight="700" fill="#22D3EE">FastAPI</text><rect x="692.2" y="398" width="76.8" height="24" rx="12" fill="#22D3EE" fill-opacity=".10" stroke="#22D3EE" stroke-opacity=".45"/><text x="730.6" y="414" text-anchor="middle" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="10" font-weight="700" fill="#22D3EE">Groq LLM</text><rect x="777.0" y="398" width="57.0" height="24" rx="12" fill="#22D3EE" fill-opacity=".10" stroke="#22D3EE" stroke-opacity=".45"/><text x="805.5" y="414" text-anchor="middle" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="10" font-weight="700" fill="#22D3EE">MySQL</text>
+  <text x="1132" y="456" text-anchor="end" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="10" font-weight="700" fill="#94A3B8" letter-spacing="1.4">MAIMOUNA / PROJECT INDEX</text>
 </svg>
