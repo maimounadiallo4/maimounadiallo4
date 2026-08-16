@@ -32,9 +32,15 @@
 
 <!-- ===== TECH STACK ===== -->
 <h2 align="center">Technologies</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,java,c,php,react,vite,nodejs,express,mysql,postgres,docker,githubactions" alt="TypeScript, Java, C, PHP, React, Vite, Node.js, Express, MySQL, PostgreSQL, Docker et GitHub Actions" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,jquery" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=py,java,php,c,bash,nodejs,express,fastapi" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,githubactions,linux,aws" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,git,github,postman,notion" />
+</div>
 
 <!-- ===== SELECTED PROJECTS ===== -->
 <div align="center">
