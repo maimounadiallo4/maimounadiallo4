@@ -43,15 +43,6 @@
 </div>
 <br/>
 
-<!-- ===== SELECTED PROJECTS ===== -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maimounadiallo4/maimounadiallo4/main/projects/projects-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maimounadiallo4/maimounadiallo4/main/projects/projects-light.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/maimounadiallo4/maimounadiallo4/main/projects/projects-light.svg" alt="Projets sélectionnés de Maïmouna Diallo" />
-  </picture>
-</div>
-
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
 <div align="center">
